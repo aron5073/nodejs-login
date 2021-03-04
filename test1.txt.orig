@@ -1,6 +1,7 @@
 <<<<<<< HEAD
-this is test1 the main branch 
+this is test1 the main branch
+and the file merged from test1_2 branch
+this is u
 =======
-
-this is the file of branch test1 which i  had been using in branch test1_2
->>>>>>> test1_2
+this is the file for test1 branch which i had in test1_1
+>>>>>>> test1_1
