@@ -1,1 +1,3 @@
-this is test1 the main branch 
+this is test1 the main branch
+and the file merged from test1_2 branch
+this is u
